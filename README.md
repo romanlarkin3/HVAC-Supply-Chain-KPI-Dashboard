@@ -1,6 +1,6 @@
 # HVAC-Supply-Chain-KPI-Dashboard
 
-This project presents a one-page Power BI dashboard designed to monitor key supply chain and production KPIs for an HVAC factory.
+This project presents a one-page Power BI (HVAC.pbix) dashboard designed to monitor key supply chain and production KPIs for an HVAC factory.
 
 Workflow:
 
